@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-bxh4or.date-me.pro/sitemap.xml
